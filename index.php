@@ -9,7 +9,7 @@
 </head>
     <?php include ("navBar.php"); ?>
   
-<body  charset=utf-8 style='width: 75%;  margin-left:auto; margin-right:auto; margin-top: 20px; margin-bottom: 20px;'>            
+<body  charset=utf-8>            
      <?php include ("home.php"); ?>
     
 

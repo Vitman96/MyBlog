@@ -1,5 +1,5 @@
 <?php
-            $sql = "SELECT * FROM `postIT` ORDER BY `postIT`.`Title` DESC";
+            $sql = "SELECT * FROM `postIT` ORDER BY `postIT`.`Date` DESC";
             $result = $conn->query($sql);
                 if ($result->num_rows > 0) {
                     // output data of each row
