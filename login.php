@@ -1,6 +1,10 @@
 <?php 
 session_start();
-$pdo = new PDO('mysql:host=localhost;dbname=test', 'root', '');
+$servername = "localhost";
+$username = "127.0.0.1";
+$password = "";
+
+$pdo = new mysqli($servername, $username, $password,"test");
  
 if(isset($_GET['login'])) {
     $email = $_POST['email'];

@@ -6,6 +6,7 @@
 <body>
  
 <?php
+    
 $showFormular = true; //Variable ob das Registrierungsformular anezeigt werden soll
  
 if(isset($_GET['register'])) {
