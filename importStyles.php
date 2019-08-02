@@ -1,11 +1,29 @@
-   <link rel="stylesheet" href="css/bootstrap-grid.css">
-    <link rel="stylesheet" href="css/bootstrap-grid.css.map">
-    <link rel="stylesheet" href="css/bootstrap-grid.min.css">
-    <link rel="stylesheet" href="css/bootstrap-grid.min.css.map">
-    <link rel="stylesheet" href="css/bootstrap-reboot.css">
-    <link rel="stylesheet" href="css/bootstrap-reboot.css.map">
-    <link rel="stylesheet" href="css/customstyle.css">
-    <link rel="stylesheet" href="css/bootstrap.css">
+ <!-- Bootstrap core CSS -->
+  <!--
+  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+-->
+
+  <!-- Custom fonts for this template -->
+  <!--
+  <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
+  <link href="vendor/simple-line-icons/css/simple-line-icons.css" rel="stylesheet" type="text/css">
+  <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
+-->
+  <!-- Custom styles for this template -->
+  <!--
+  <link href="css/landing-page.min.css" rel="stylesheet">
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.0.7/angular.min.js"></script>
     <script src="http://documentcloud.github.com/underscore/underscore-min.js"></script>
     <script type="text/javascript" src="todo.js"></script>
+-->
+
+ <!-- Bootstrap core CSS -->
+  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Custom fonts for this template -->
+  <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
+  <link href="vendor/simple-line-icons/css/simple-line-icons.css" rel="stylesheet" type="text/css">
+  <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
+
+  <!-- Custom styles for this template -->
+  <link href="css/landing-page.min.css" rel="stylesheet">

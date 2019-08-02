@@ -9,8 +9,9 @@
 </head>
     <?php include ("navBar.php"); ?>
   
-<body  charset=utf-8>            
-     <?php include ("home.php"); ?>
+<body  charset=utf-8>   
+ 
+    <?php include ("home.php"); ?>
      
     
     
